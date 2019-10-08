@@ -1,0 +1,17 @@
+debug:
+  host: 127.0.0.1
+  port: 3306
+  charset: utf8
+  username: test
+  password: test
+  databases: test
+  driverName: mysql
+
+production:
+  host: 127.0.0.1
+  port: 3306
+  charset: utf8
+  username: test
+  password: test
+  databases: test
+  driverName: mysql
